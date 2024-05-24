@@ -1,7 +1,15 @@
 
 
-### Hi there 👋
+### Hi there 👋 I'm Abdujabborov Kamronbek .NET DEVELOPER
 
+## 🔥 Streak stats
+
+<!-- GitHub Readme Streak Stats - https://github.com/muhammad-abdulloh/github-readme-streak-stats -->
+<p align="center">
+  <a href="#">
+    <img title="🔥 Streak stats" alt="Komroncube's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Komroncube&theme=monokai-metallian&hide_border=true"/>
+  </a>
+</p>
 
 ## 📊 Github stats
 <p>
@@ -92,14 +100,7 @@
  
 </div>
 
-## 🔥 Streak stats
 
-<!-- GitHub Readme Streak Stats - https://github.com/muhammad-abdulloh/github-readme-streak-stats -->
-<p align="center">
-  <a href="#">
-    <img title="🔥 Streak stats" alt="Komroncube's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Komroncube&theme=monokai-metallian&hide_border=true"/>
-  </a>
-</p>
 
 <p align="center"> 
   Visitor count<br>
