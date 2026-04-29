@@ -54,12 +54,6 @@
         <img alt="ASP.NET"
              src="https://img.shields.io/badge/ASP.NET-%23013243.svg?style=for-the-badge&logo=ASP.NET&logoColor=white"></a>
     <a href="#">
-        <img alt=".NET7"
-             src="https://img.shields.io/badge/.NET7-%23150458.svg?style=for-the-badge&logo=.NET6&logoColor=white"></a>
-    <a href="#">
-        <img alt="ASP.NET Core"
-             src="https://img.shields.io/badge/ASP.NET CORE-%23EE4C2C.svg?style=for-the-badge&logo=ASP.NET Core&logoColor=white"/></a>
-    <a href="#">
         <img alt="Entity%20Fraemwork%20Core"
              src="https://img.shields.io/badge/Entity%20Fraemwork-092E20?style=for-the-badge&logo=Entity%20Fraemwork&logoColor=green"></a>
     <a href="#">
